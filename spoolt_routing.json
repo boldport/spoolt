@@ -1,0 +1,119 @@
+{
+  "routes": {}, 
+  "vias": {
+    "15a3637ac": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole-3p1mm", 
+      "layer": "top", 
+      "location": [
+        37.158598, 
+        -30.936635
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "3e9dada89": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole-3p1mm", 
+      "layer": "top", 
+      "location": [
+        -48.823657, 
+        -30.702774
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "6c71e24ef": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole-3p1mm", 
+      "layer": "top", 
+      "location": [
+        -5.820833, 
+        -30.702774
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "7a60196cb": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole-3p1mm", 
+      "layer": "top", 
+      "location": [
+        5.820833, 
+        -30.702774
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "b96476bae": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole-3p1mm", 
+      "layer": "top", 
+      "location": [
+        -37.181983, 
+        -30.702774
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "ebed3c47e": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole-3p1mm", 
+      "layer": "top", 
+      "location": [
+        48.800266, 
+        -30.936635
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }
+  }
+}
