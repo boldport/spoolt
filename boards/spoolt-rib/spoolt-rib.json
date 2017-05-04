@@ -1,0 +1,218 @@
+{
+  "components": {}, 
+  "config": {
+    "name": "spoolt-rib", 
+    "no-docs": false, 
+    "no-drill-index": false, 
+    "no-flashes": false, 
+    "no-layer-index": false, 
+    "rev": "first", 
+    "style-layout": "default", 
+    "units": "mm"
+  }, 
+  "distances": {
+    "from-pour-to": {
+      "drill": 0.5, 
+      "outline": 0.5, 
+      "pad": 0.5, 
+      "route": 0.5
+    }, 
+    "soldermask": {
+      "circle-buffer": 0.05, 
+      "path-scale": 1.05, 
+      "rect-buffer": 0.05
+    }, 
+    "solderpaste": {
+      "circle-buffer": -0.1, 
+      "path-scale": 0.9, 
+      "rect-buffer": -0.1
+    }
+  }, 
+  "documentation": {
+    "board-details": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        69.490383, 
+        17.206889
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Board details:\nName: Spoolt (rib)\nRevision: first\nDescription: spool holder made of PCB\nLicense: MIT\nDesigner: Saar Drimer, Boldport, saar@boldport.com"
+    }, 
+    "manufacturing": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        69.693579, 
+        4.7228886
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 2.4 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top, bottom, white\nSoldermask: top (black), bottom (green)\nSurface finish: lead free"
+    }, 
+    "pcbmode": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.2mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.2mm", 
+      "location": [
+        65.883588, 
+        -5.7401114
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Designed with PCBmodE, an open source software\n     http://pcbmode.com\nStay updated:\n     @boldport @pcbmode http://boldport.com"
+    }
+  }, 
+  "drill-index": {
+    "location": [
+      53.762299, 
+      -11.572111
+    ]
+  }, 
+  "drills": {}, 
+  "files": {
+    "routing-data": "spoolt-rib_routing.json", 
+    "routing-svg": "spoolt-rib.svg"
+  }, 
+  "gerber": {
+    "decimals": 6, 
+    "digits": 6, 
+    "min-segment-length": 0.05, 
+    "steps-per-segment": 100
+  }, 
+  "layer-control": {
+    "assembly": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "conductor": {
+      "hide": false, 
+      "lock": false, 
+      "pads": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }, 
+      "place": true, 
+      "pours": {
+        "hide": false, 
+        "lock": true, 
+        "place": true
+      }, 
+      "routing": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }
+    }, 
+    "dimensions": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "documentation": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "drills": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "origin": {
+      "hide": false, 
+      "lock": true, 
+      "place": false
+    }, 
+    "outline": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "placement": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "silkscreen": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "soldermask": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "solderpaste": {
+      "hide": true, 
+      "lock": true, 
+      "place": false
+    }
+  }, 
+  "outline": {
+    "shape": {
+      "type": "path", 
+      "value": "m -34.32968,-34.211735 c -1.28324,0 -2.18282,0.65973 -2.18282,2.018 l 0,2.61387 2.75607,0 c 0.1108,0 0.20009,0.0893 0.20009,0.20009 l 0,14.99967 c 0,0.1108 -0.0893,0.20009 -0.20009,0.20009 l -2.75607,0 0,8.7792 2.75607,0 c 0.1108,0 0.20009,0.0893 0.20009,0.20009 l 0,15.0002296 c 0,0.1108 -0.0893,0.19953 -0.20009,0.19953 l -2.75607,0 0,3.0956304 c 0,1.21297 0.70852,1.96337 1.98216,1.93587 l 6.00992,0 0,-2.75608 c 0,-0.1108 0.0887,-0.19954 0.19953,-0.19954 l 15.00022,0 c 0.1108,0 0.2001,0.0887 0.2001,0.19954 l 0,2.75608 26.2417,0 0,-2.75608 c 0,-0.1108 0.0893,-0.19954 0.20009,-0.19954 l 14.99966,0 c 0.1108,0 0.2001,0.0887 0.2001,0.19954 l 0,2.75608 7.1035,0 c 0.59626,0 0.88802,-0.31928 0.88802,-0.86927 l 0,-2.27211 -2.75607,0 c -0.1108,0 -0.2001,-0.0893 -0.2001,-0.20009 l 0,-14.99967 c 0,-0.1108 0.0893,-0.20009 0.2001,-0.20009 l 2.75607,0 0,-2.54992 c 0,-13.79803 -5.98814,-20.83089 -17.50385,-24.41773 l 0,29.51316 c 0,0.554 -0.44591,0.99991 -0.99991,0.99991 l -0.70003,0 c -0.554,0 -0.99991,-0.44591 -0.99991,-0.99991 l 0,-30.26778 c -1.42107,-0.3551 -2.91538,-0.66769 -4.48138,-0.94313 l 0,33.10047995 c 0,0.55400005 -0.44591,0.99990005 -0.99991,0.99990005 l -0.70002,0 c -0.55401,0 -0.99992,-0.4459 -0.99992,-0.99990005 l 0,-33.52931995 c -1.43925,-0.2056 -2.93353,-0.385 -4.48194,-0.5413 l 0,35.96074 c 0,0.554 -0.44588,0.9999 -0.99989,0.9999 l -0.70005,0 c -0.554,0 -0.99991,-0.4459 -0.99991,-0.9999 l 0,-36.20658 c -1.44619,-0.11785 -2.94826,-0.21462 -4.48138,-0.30096 l 0,34.61741995 c 0,0.55400005 -0.44591,0.99990005 -0.99989,0.99990005 l -0.70005,0 c -0.554,0 -1.00045,-0.4459 -1.00045,-0.99990005 l 0,-34.75411995 c -1.45813,-0.0648 -2.9504,-0.11979 -4.48138,-0.16426 l 0,33.02881 c 0,0.554 -0.44591,0.99991 -0.99991,0.99991 l -0.70005,0 c -0.554,0 -0.99989,-0.44591 -0.99989,-0.99991 l 0,-33.09662 c -6.66671,-0.14594 -13.96683,-0.14993 -21.91246,-0.14993 z"
+    }
+  }, 
+  "shapes": {
+    "BP-Logo": {
+      "footprint": "boldport-logo-b", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -19.429322
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "EC-LOGO": {
+      "footprint": "eurocircuits-logo", 
+      "layer": "bottom", 
+      "location": [
+        -2.489079, 
+        -21.213336
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "SOLDER-RIB": {
+      "footprint": "solder-rib", 
+      "layer": "top", 
+      "location": [
+        0, 
+        0
+      ], 
+      "rotate": 0, 
+      "show": true
+    }
+  }, 
+  "soldermask": {
+    "circle-buffer": 0.05, 
+    "path-scale": 1.05, 
+    "rect-buffer": 0.05
+  }, 
+  "solderpaste": {
+    "circle-buffer": -0.1, 
+    "path-scale": 0.9, 
+    "rect-buffer": -0.1
+  }, 
+  "stackup": {
+    "name": "two-layer"
+  }, 
+  "vias": {
+    "default-via": "VIA"
+  }
+}
