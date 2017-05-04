@@ -1,7 +1,7 @@
 {
   "routes": {}, 
   "vias": {
-    "15a3637ac": {
+    "1cdf8143c": {
       "assembly": {
         "refdef": {
           "show": false
@@ -10,8 +10,8 @@
       "footprint": "plated-hole-3p1mm", 
       "layer": "top", 
       "location": [
-        37.158598, 
-        -30.936635
+        -26.373995, 
+        -26.711629
       ], 
       "rotate": 0, 
       "silkscreen": {
@@ -20,7 +20,7 @@
         }
       }
     }, 
-    "3e9dada89": {
+    "27ed55a9c": {
       "assembly": {
         "refdef": {
           "show": false
@@ -29,8 +29,8 @@
       "footprint": "plated-hole-3p1mm", 
       "layer": "top", 
       "location": [
-        -48.823657, 
-        -30.702774
+        -27.81102, 
+        27.332314
       ], 
       "rotate": 0, 
       "silkscreen": {
@@ -39,7 +39,7 @@
         }
       }
     }, 
-    "6c71e24ef": {
+    "32fc63329": {
       "assembly": {
         "refdef": {
           "show": false
@@ -48,8 +48,8 @@
       "footprint": "plated-hole-3p1mm", 
       "layer": "top", 
       "location": [
-        -5.820833, 
-        -30.702774
+        27.728567, 
+        -6.379527
       ], 
       "rotate": 0, 
       "silkscreen": {
@@ -58,7 +58,26 @@
         }
       }
     }, 
-    "7a60196cb": {
+    "411977c64": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "0201", 
+      "layer": "top", 
+      "location": [
+        63.968107, 
+        28.520762
+      ], 
+      "rotate": 45, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "99ca13b0a": {
       "assembly": {
         "refdef": {
           "show": false
@@ -67,8 +86,8 @@
       "footprint": "plated-hole-3p1mm", 
       "layer": "top", 
       "location": [
-        5.820833, 
-        -30.702774
+        -27.81102, 
+        -6.379527
       ], 
       "rotate": 0, 
       "silkscreen": {
@@ -77,7 +96,7 @@
         }
       }
     }, 
-    "b96476bae": {
+    "e1f1324ae": {
       "assembly": {
         "refdef": {
           "show": false
@@ -86,8 +105,8 @@
       "footprint": "plated-hole-3p1mm", 
       "layer": "top", 
       "location": [
-        -37.181983, 
-        -30.702774
+        27.728567, 
+        17.852552
       ], 
       "rotate": 0, 
       "silkscreen": {
@@ -96,7 +115,7 @@
         }
       }
     }, 
-    "ebed3c47e": {
+    "e40ed616b": {
       "assembly": {
         "refdef": {
           "show": false
@@ -105,8 +124,8 @@
       "footprint": "plated-hole-3p1mm", 
       "layer": "top", 
       "location": [
-        48.800266, 
-        -30.936635
+        27.098845, 
+        -26.711629
       ], 
       "rotate": 0, 
       "silkscreen": {
