@@ -1,0 +1,43 @@
+{
+  "routes": {}, 
+  "vias": {
+    "53cda567a": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole-3p1mm", 
+      "layer": "top", 
+      "location": [
+        -26.736135, 
+        -4e-06
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "bcc598b2d": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole-3p1mm", 
+      "layer": "top", 
+      "location": [
+        26.736705, 
+        -4e-06
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }
+  }
+}
