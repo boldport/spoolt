@@ -21,7 +21,7 @@
     }
   }, 
   "config": {
-    "name": "spoolt", 
+    "name": "spoolt-rib", 
     "no-docs": false, 
     "no-drill-index": false, 
     "no-flashes": false, 
@@ -61,7 +61,7 @@
       "rotate": 0, 
       "style": "fill", 
       "type": "text", 
-      "value": "Board details:\nName: Spoolt\nRevision: first\nDescription: spool holder made of PCB\nLicense: MIT\nDesigner: Saar Drimer, Boldport, saar@boldport.com"
+      "value": "Board details:\nName: Spoolt (rib)\nRevision: first\nDescription: spool holder made of PCB\nLicense: MIT\nDesigner: Saar Drimer, Boldport, saar@boldport.com"
     }, 
     "manufacturing": {
       "font-family": "Overlock-Regular-OTF-webfont", 
@@ -75,7 +75,7 @@
       "rotate": 0, 
       "style": "fill", 
       "type": "text", 
-      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 2.0 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top, bottom, white\nSoldermask: top, bottom, matt black\nSurface finish: ENIG"
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 2.4 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top, bottom, white\nSoldermask: top (black), bottom (green)\nSurface finish: lead free"
     }, 
     "pcbmode": {
       "font-family": "Overlock-Regular-OTF-webfont", 
@@ -100,8 +100,8 @@
   }, 
   "drills": {}, 
   "files": {
-    "routing-data": "spoolt_routing.json", 
-    "routing-svg": "spoolt.svg"
+    "routing-data": "spoolt-rib_routing.json", 
+    "routing-svg": "spoolt-rib.svg"
   }, 
   "gerber": {
     "decimals": 6, 
