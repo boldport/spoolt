@@ -1,0 +1,42 @@
+{
+  "pins":
+  {
+  "hole":
+    {	
+      "layout": 
+      {
+        "pad": "hole", 
+        "location": [0, 0]
+      }
+    }
+  },
+  "layout": {
+    "assembly": {
+      "shapes":
+      [
+      ]
+    }
+  },
+  "pads":
+  {
+    "hole":
+    {
+      "shapes":
+      [
+	{
+          "type": "circle",
+	  "layers": ["top", "internal", "bottom"],
+	  "style": "fill",
+          "diameter": 2.2,
+          "buffer-to-pour": 0.3
+        }
+      ],
+      "drills":
+      [
+        {
+          "diameter": 1.2
+        }
+      ]
+    }
+  }
+}

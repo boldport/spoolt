@@ -1,17 +1,17 @@
 {
   "routes": {}, 
   "vias": {
-    "53cda567a": {
+    "0106af5cc": {
       "assembly": {
         "refdef": {
           "show": false
         }
       }, 
-      "footprint": "plated-hole-3p1mm", 
+      "footprint": "plated-hole", 
       "layer": "top", 
       "location": [
-        -26.736135, 
-        -4e-06
+        27.03504, 
+        4.7625
       ], 
       "rotate": 0, 
       "silkscreen": {
@@ -20,7 +20,64 @@
         }
       }
     }, 
-    "bcc598b2d": {
+    "016b5d131": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole", 
+      "layer": "top", 
+      "location": [
+        -18.006022, 
+        4.7625
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "24bc32510": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole", 
+      "layer": "top", 
+      "location": [
+        9.018612, 
+        4.7625
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "315698396": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole", 
+      "layer": "top", 
+      "location": [
+        0.0, 
+        -4.762499
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "3f03dbe47": {
       "assembly": {
         "refdef": {
           "show": false
@@ -29,8 +86,217 @@
       "footprint": "plated-hole-3p1mm", 
       "layer": "top", 
       "location": [
-        26.736705, 
-        -4e-06
+        26.736, 
+        0
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "4a786057f": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole", 
+      "layer": "top", 
+      "location": [
+        -8.997809, 
+        4.7625
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "4aaa3beb5": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole", 
+      "layer": "top", 
+      "location": [
+        18.026827, 
+        -4.762499
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "56a2ff81c": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole", 
+      "layer": "top", 
+      "location": [
+        0.0, 
+        4.7625
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "6694c5831": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole", 
+      "layer": "top", 
+      "location": [
+        18.026827, 
+        4.7625
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "68b735b2c": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole", 
+      "layer": "top", 
+      "location": [
+        9.018612, 
+        -4.762499
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "82a41a157": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole", 
+      "layer": "top", 
+      "location": [
+        27.03504, 
+        -4.762499
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "bdc1a868e": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole", 
+      "layer": "top", 
+      "location": [
+        -8.997809, 
+        -4.762499
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "be599118b": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole", 
+      "layer": "top", 
+      "location": [
+        -27.014235, 
+        4.7625
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "dd1fc984e": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole", 
+      "layer": "top", 
+      "location": [
+        -18.006022, 
+        -4.762499
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "f405656df": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole", 
+      "layer": "top", 
+      "location": [
+        -27.014235, 
+        -4.762499
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "f52037509": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "plated-hole-3p1mm", 
+      "layer": "top", 
+      "location": [
+        -26.736, 
+        0
       ], 
       "rotate": 0, 
       "silkscreen": {
