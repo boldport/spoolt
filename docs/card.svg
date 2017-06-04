@@ -58,9 +58,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.92703092"
-     inkscape:cx="817.32145"
-     inkscape:cy="414.40972"
+     inkscape:zoom="0.65550985"
+     inkscape:cx="561.78293"
+     inkscape:cy="273.89995"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1166,26 +1166,26 @@
        id="path11563"
        inkscape:connector-curvature="0" />
     <g
-       style="fill:#4d4d4d;fill-opacity:1;stroke:#9fee00;stroke-width:0.43563065;stroke-opacity:0.6"
+       style="fill:#333333;fill-opacity:1;stroke:#9fee00;stroke-width:0.43563065;stroke-opacity:0.6"
        transform="matrix(2.2955226,0,0,2.2955226,238.15609,241.44875)"
        pcbmode:type="component-shapes"
        id="g228">
       <path
          inkscape:connector-curvature="0"
          d="m 0.038628,-3.146559 -2.4516467,0.00989 0.025453,1.2819067 1.50435624,-0.023094 0.004702,-0.1875724 h 0.30869519 c 0.4246879,0 0.71761432,0.051625 0.87848172,0.1545823 0.16730041,0.1029556 0.25072445,0.2861719 0.25072445,0.5499949 0,0.2316478 -0.0546174,0.41486571 -0.16400608,0.54999333 -0.10295311,0.13512762 -0.26382051,0.23492066 -0.48260047,0.29926881 l -0.82994166,-0.038646 0.006156,-0.23093209 -1.45486799,0.0226233 0.029215,1.46806579 1.39737356,-0.0216828 0.002822,-0.16636505 1.01326905,-0.019323 c 0.25738819,0.0579119 0.44752991,0.14779203 0.56978978,0.2700519 0.12225987,0.11582343 0.18333252,0.27369831 0.18333252,0.47317411 0,0.2638205 -0.0968022,0.4663991 -0.28984243,0.6079631 -0.19304017,0.1415632 -0.46314836,0.2120811 -0.81061864,0.2120811 -0.0965193,0 -0.31200575,-0.012432 -0.64660914,-0.038176 l -0.007524,-0.2431842 -1.4280065,0.022153 -0.06032,1.2823769 h 0.00943 c 0.5855553,0.038612 1.200214,0.057969 1.843681,0.057969 1.9818771,0 2.9728914,-0.611189 2.9728914,-1.8337835 0,-0.38607521 -0.096802,-0.69490634 -0.2898424,-0.92655491 -0.1930402,-0.2380833 -0.4984052,-0.40839332 -0.9166575,-0.511349 0.3024306,-0.1415632 0.5338107,-0.33469744 0.6946807,-0.57921376 0.1672978,-0.25095105 0.2511981,-0.54041733 0.2511981,-0.86858513 0,-0.5083394 -0.1866816,-0.8980697 -0.5598933,-1.1683258 C 1.2192915,-3.0115083 0.70143595,-3.1465607 0.03866391,-3.1465607 Z m -0.92844023,1.5250917 -1.49257097,0.023094 0.01132,0.5834554 1.46617969,-0.022623 0.0150822,-0.5839274 z m -0.0537282,2.56569684 -1.38841827,0.0216743 0.00564,0.27947476 -0.014142,0.3039816 1.40773871,-0.021683 -0.0132012,-0.4368854 0.002394,-0.14657096 z"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.43563065"
+         style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.43563065"
          pcbmode:style="fill"
          id="path226" />
     </g>
     <g
-       style="fill:#4d4d4d;fill-opacity:1;stroke:#cd0074;stroke-opacity:0.6"
+       style="fill:#333333;fill-opacity:1;stroke:#cd0074;stroke-opacity:0.6"
        transform="matrix(-2.2827678,0,0,2.2827678,371.09842,245.27746)"
        pcbmode:type="component-shapes"
        id="g6">
       <path
          inkscape:connector-curvature="0"
          d="m -0.181716,-4.841448 c 0.25194665,0 0.4587189,0.2067727 0.4587189,0.4587213 V -2.3012 c 0,0.2519486 -0.20677225,0.4587212 -0.4587189,0.4587212 -0.2519495,0 -0.45819925,-0.2067726 -0.45819925,-0.4587212 v -2.0815267 c 0,-0.2519486 0.20624975,-0.4587213 0.45819925,-0.4587213 z m 4.6903733,0.025135 c 0.1693441,0 0.30529,0.1359439 0.30529,0.3052906 v 2.3381174 c 0,0.1693465 -0.1359459,0.3052904 -0.30529,0.3052904 H 3.8970283 V -2.172905 h 0.611629 V -3.1893184 H 4.0499346 V -3.494609 h 0.4587227 v -1.0164133 h -0.611629 v -0.3052906 z m -1.1824128,0 v 2.5151125 c 0,0.2519695 -0.2062288,0.4587212 -0.4581973,0.4587212 -0.2519277,0 -0.4587218,-0.2067517 -0.4587218,-0.4587212 V -4.8163129 H 2.715138 v 2.643408 h 0.3058164 v -2.643408 z m -1.4871775,0 v 2.9486984 H 1.5332506 V -3.1893184 H 1.2274352 v 1.1028163 c 0,0.074338 -0.032946,0.1569362 -0.065978,0.2188876 H 0.8477895 c 0.041306,-0.074337 0.073834,-0.1363064 0.073834,-0.2188876 v -0.9828993 c 0,-0.181733 0.0622915,-0.2439093 0.1366746,-0.2728243 -0.0743755,-0.041301 -0.1366746,-0.094689 -0.1366746,-0.2351208 v -0.9336758 c 0,-0.1693467 0.1364685,-0.3052906 0.3058126,-0.3052906 z M 1.5332506,-4.5110223 H 1.2274352 v 1.0164133 h 0.3058154 z m -1.5620603,0 h -0.30581545 v 2.3381174 h 0.30581545 z m 6.1089513,2.9481747 c 0.058909,0 0.106304,0.034808 0.106304,0.078024 v 0.1042073 c 0,0.043196 -0.047395,0.078024 -0.106304,0.078024 H 5.601523 c -0.05891,0 -0.1063031,-0.034829 -0.1063031,-0.078024 v -0.015709 h -7.3185938 v -0.072788 h 7.3185938 v -0.015709 c 0,-0.043216 0.047395,-0.078024 0.1063031,-0.078024 z m 0,0.432015 c 0.058909,0 0.106304,0.035331 0.106304,0.078548 v 0.10368362 c 0,0.0431955 -0.047395,0.0780245 -0.106304,0.0780245 H 5.601523 c -0.05891,2.9e-7 -0.1063031,-0.0348289 -0.1063031,-0.0780245 v -0.0157092 h -7.3185938 v -0.072788 h 7.3185938 v -0.015186 c 0,-0.043216 0.047395,-0.078548 0.1063031,-0.078548 z m 0,0.43201512 c 0.058909,0 0.106304,0.0353315 0.106304,0.0785479 v 0.10368366 c 0,0.0431956 -0.047395,0.0785479 -0.106304,0.0785479 H 5.601523 c -0.05891,0 -0.1063031,-0.0353524 -0.1063031,-0.0785479 v -0.0157101 h -7.3185938 v -0.0727881 h 7.3185938 v -0.0151857 c 0,-0.0432164 0.047395,-0.0785479 0.1063031,-0.0785479 z m 0,0.43253851 c 0.058909,0 0.106304,0.034808 0.106304,0.0780244 v 0.10368367 c 0,0.04321645 -0.047395,0.0785479 -0.106304,0.0785479 H 5.601523 c -0.05891,0 -0.1063031,-0.03533145 -0.1063031,-0.0785479 v -0.0151857 h -7.3185938 v -0.07278805 h 7.3185938 v -0.0157102 c 0,-0.0432164 0.047395,-0.0780245 0.1063031,-0.0780245 z M 4.9773255,0.21862497 c 0.2703928,0 0.4456308,0.22686029 0.4456308,0.6341458 0,0.40559903 -0.175238,0.63414543 -0.4456308,0.63414543 -0.2339831,0 -0.4003053,-0.1337694 -0.43149,-0.4388225 h 0.1665217 c 0.026002,0.2183915 0.1297843,0.2932468 0.2649683,0.2932465 0.1629155,0 0.279109,-0.1696526 0.279109,-0.48856943 0,-0.31889619 -0.1144674,-0.49066426 -0.279109,-0.49066426 -0.1178637,0 -0.2112981,0.0884403 -0.2476888,0.25135413 H 4.5652098 c 0.038114,-0.24784749 0.19893,-0.39483539 0.4121157,-0.39483567 z m -2.5287271,0 c 0.2703928,0 0.4456298,0.22683967 0.4456298,0.6341458 0,0.40557833 -0.175237,0.63414543 -0.4456298,0.63414543 -0.2339831,0 -0.4002872,-0.1751591 -0.43149,-0.480191 h 0.1665217 c 0.026002,0.2183915 0.1297843,0.334615 0.2649683,0.334615 0.1629155,0 0.2791091,-0.1696733 0.2791091,-0.48856943 0,-0.31889619 -0.1144456,-0.49066426 -0.2791091,-0.49066426 -0.1178456,0 -0.2112771,0.0884194 -0.2476887,0.25135413 H 2.0364818 C 2.0746157,0.36559254 2.2354317,0.21862535 2.4485984,0.21862497 Z m -3.2539894,0.001567 c 0.22705285,0 0.3833155,0.14394514 0.3833155,0.35713226 0,0.20798322 -0.12490505,0.26311466 -0.33461565,0.32204763 -0.2131857,0.0606604 -0.33304245,0.0693462 -0.33304245,0.22360034 0,0.1351859 0.1075742,0.2183639 0.26182665,0.2183639 0.17157475,0 0.28434545,-0.1075659 0.28434545,-0.2843441 h 0.15761925 c -0.0121315,0.2755758 -0.1682393,0.4299201 -0.435157,0.4299201 -0.26518865,0 -0.42782485,-0.1507132 -0.42782485,-0.3812205 0,-0.23050683 0.136951,-0.28439501 0.3744111,-0.33985174 0.20971155,-0.048525 0.28905935,-0.0709888 0.28905935,-0.21312737 0,-0.11438959 -0.0865355,-0.19061009 -0.22517375,-0.19061009 -0.1455951,0 -0.2355515,0.0870048 -0.2476887,0.2482121 H -1.2159363 V 0.606648 c 0,-0.24614043 0.1505636,-0.38645695 0.4105453,-0.38645603 z m 5.2517311,0.0308959 V 0.39666438 H 4.3206627 V 1.308347 H 4.4463401 V 1.4539227 H 4.0357948 V 1.308347 H 4.1614722 V 0.39666438 H 4.0357948 V 0.25108837 Z m -0.6205295,0 V 1.4539227 H 3.6645253 V 0.94650157 h -0.164427 c -0.1975952,0 -0.246183,0.0117373 -0.2565902,0.18851563 l -0.00836,0.156049 c -0.00522,0.081436 -0.014089,0.1351285 -0.031417,0.1628565 H 3.0220213 v -0.032466 c 0.038114,-0.022544 0.048212,-0.064244 0.053409,-0.1387686 L 3.0874763,1.0884124 C 3.0961263,0.96536298 3.1137063,0.89931547 3.219438,0.86638286 3.1137087,0.81783786 3.059724,0.72633633 3.059724,0.5946061 c 0,-0.22184723 0.1247739,-0.34351734 0.3639393,-0.34351734 h 0.09216 0.310004 z m -1.9699865,0 v 0.74568398 c 0,0.33103255 -0.1317052,0.49014065 -0.4142133,0.49014065 -0.2825272,0 -0.4142105,-0.1573802 -0.4142105,-0.49014065 V 0.25108837 H 1.1886856 V 1.0051509 c 0,0.2235749 0.081339,0.3361861 0.2529252,0.3361861 0.1750498,0 0.2550218,-0.1108627 0.2550189,-0.3361861 V 0.25108837 Z m -1.0331716,0 V 0.39666438 H 0.6969751 V 1.308347 H 0.8226525 V 1.4539227 H 0.41210715 V 1.308347 H 0.5377836 V 0.39666438 H 0.41210715 V 0.25108837 Z m -0.4959019,0 V 0.39666438 H 0.04711905 V 1.4539227 h -0.159714 V 0.39666438 H -0.3906552 V 0.25108837 Z M 3.6645253,0.39875913 H 3.468678 c -0.1611855,0 -0.2424523,0.0447345 -0.2424523,0.19898861 0,0.16120712 0.086536,0.20108327 0.2529251,0.20108327 h 0.1853745 z"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         style="fill:#333333;fill-opacity:1;stroke:none"
          pcbmode:style="fill"
          pcbmode:gerber-lp="ddddccddddddddddddc"
          id="path4" />
@@ -1194,45 +1194,45 @@
        id="text5123"
        y="248.20184"
        x="246.01071"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
          id="tspan5121"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:89.99999762%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:89.99999762%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px;fill:#333333;"
          y="248.20184"
          x="246.01071"
          sodipodi:role="line">http://boldport.com</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="314.00833"
        y="248.20184"
        id="text5132"><tspan
          sodipodi:role="line"
          x="314.00833"
          y="248.20184"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:89.99999762%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:89.99999762%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px;fill:#333333;"
          id="tspan5130">http://eurocircuits.com</tspan></text>
     <text
        id="text5103"
        y="163.29053"
        x="337.99924"
-       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5.58196926px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5.58196926px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.58196926px;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.58196926px;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px;fill:#333333;"
          y="163.29053"
          x="337.99924"
          id="tspan5101"
          sodipodi:role="line">Spool holder</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="338.19385"
        y="170.54391"
        id="text5107"><tspan
          sodipodi:role="line"
          x="338.19385"
          y="170.54391"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:89.99999762%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:89.99999762%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px;fill:#333333;"
          id="tspan5113">A Boldport project</tspan></text>
     <text
        id="text5541"
@@ -1246,10 +1246,10 @@
        id="text5549"
        y="177.96455"
        x="337.86789"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
          id="tspan5547"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:89.99999762%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:89.99999762%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px;fill:#333333;"
          y="177.96455"
          x="337.86789"
          sodipodi:role="line">from Eurocircuits</tspan></text>
@@ -1257,10 +1257,10 @@
        id="text5557"
        y="174.18289"
        x="338.11343"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
          id="tspan5555"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:89.99999762%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:89.99999762%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px;fill:#333333;"
          y="174.18289"
          x="338.11343"
          sodipodi:role="line">with kind support </tspan></text>
@@ -3718,5 +3718,27 @@
          xlink:href="#path6880"><tspan
    id="tspan6915"
    style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5.64444447px;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;stroke-width:0.26458332px">Spoolt</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:10.37012386px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="338.07492"
+       y="158.47064"
+       id="text6923"><tspan
+         sodipodi:role="line"
+         id="tspan6921"
+         x="338.07492"
+         y="158.47064"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:10.37012386px;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px;fill:#333333;">Spoolt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333333px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="337.86789"
+       y="185.37286"
+       id="text6927"><tspan
+         sodipodi:role="line"
+         x="337.86789"
+         y="185.37286"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333333px;line-height:89.99999762%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;stroke-width:0.26458332px;fill:#333333;"
+         id="tspan6925">boldport.com/spoolt</tspan></text>
   </g>
 </svg>
